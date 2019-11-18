@@ -2,7 +2,7 @@
 git init
 
 # Lägg till en github-repository (görs bara en gång)
-git remote add origin https://urltillgithubrepository
+git remote add origin https://github.com/FredrikGehrke/javascriptdemo.git
 
 -------------------------------------------------------------------
 
@@ -19,7 +19,7 @@ git push -u origin master
 -------------------------------------------------------------------
 
 # När vi vill hämta hem ett helt nytt projekt
-git clone https://urltillgithubrepository
+git clone https://github.com/FredrikGehrke/javascriptdemo.git
 
 # När vi vill hämta hem de senaste uppdateringarna (Vi har projektet sen tidigare)
 git pull origin
